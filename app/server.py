@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=17Uhx66fdywlXw22zeV055bRGvj2TNZbZ'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1xVwmHPoBw-hzJundIVMU_AlRmJ_CCkj0'
 export_file_name = 'tops.pkl'
 
 classes = ['suits', 'sleeveless', 'polo', 'jacket']
